@@ -1,4 +1,16 @@
 MARTINS-432-FLOW-2025
+
+## 🧠 Technical Overview: AI Alignment Protocol
+
+### The Problem: Stochastic Entropy
+Modern LLMs suffer from high entropy in output tensors, leading to "hallucinations". Current alignment (RLHF) is non-deterministic and unstable for critical infrastructure.
+
+### The Solution: Harmonic Resonance (432Hz)
+This protocol applies a mathematical `resonance_factor` based on the 432Hz frequency to:
+* **Normalize Softmax Distributions:** Stabilizing token selection.
+* **Noise Reduction:** Filtering variance in the neural output layers.
+* **Deterministic Flow:** Aligning synaptic weights with a low-entropy harmonic base.
+## Project Vision & Context
 ​Protocol for Neural Alignment and Harmonic Stability
 ​This repository documents the MARTINS-432-FLOW-2025 framework, a technical approach to AGI alignment focused on:
 ​Neural Noise Reduction: Utilizing harmonic resonance (432 Hz) to stabilize large language model outputs.
