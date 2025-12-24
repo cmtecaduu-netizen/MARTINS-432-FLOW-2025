@@ -9,3 +9,9 @@ MARTINS-432-FLOW-2025
 ​Implement a harmonic feedback loop for model alignment.
 ​Establish a public standard for deterministic flow in 2025 AI systems.
 ​Developed by Leandro Martins.
+# 432Hz Alignment Layer
+def apply_martins_flow(output_tensor):
+    target_frequency = 432.0
+    if output_tensor.noise > threshold:
+        return output_tensor * (target_frequency / resonance_factor)
+    return output_tensor
