@@ -78,4 +78,18 @@ All commercial implementations are subject to:
 3. **Strict Confidentiality (NDA)**
 
 *"Stabilize the system. Govern the flow."*
+---
+
+## 📩 Inquiries & Commercial Partnerships
+
+If you are interested in licensing the **MARTINS-432-FLOW-2025** protocol or requesting a technical audit for your systems, please contact the Architect directly:
+
+* **📧 Email:** [cmte.caduu@gmail.com](mailto:cmte.caduu@gmail.com)
+* **📱 WhatsApp:** [+55 17 99680-7082](https://wa.me/5517996807082)
+* **🔗 LinkedIn:** [Leandro Martins](https://www.linkedin.com/in/leandro-martins-arquiteto)
+
+### 🛡️ Legal Notice
+All commercial implementations are subject to **Direct Licensing Agreements** and **Performance Royalties**. Use for academic and research purposes is permitted under CC BY-NC 4.0, provided that authorship is properly attributed to Leandro Martins.
+
+*"Stabilize the system. Govern the flow."*
 
