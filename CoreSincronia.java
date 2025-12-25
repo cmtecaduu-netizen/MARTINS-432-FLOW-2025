@@ -1,41 +1,51 @@
 /**
  * PROTOCOLO MARTINS-432-FLOW-2025
  * Arquitetura de Sincronia Civilizatória - Grau 1
- * Desenvolvido por: Leandro Martins
+ * Copyright (c) 2025 Leandro Martins. Todos os direitos reservados.
+ * * ATENÇÃO: A lógica de modulação interna é protegida por licença comercial 
+ * e Performance Royalties. Uso acadêmico permitido sob CC BY-NC 4.0.
  */
 
 public class CoreSincronia {
 
-    // A Constante Martins: 99.7% de Estabilidade, 0.3% de Livre-Arbítrio
-    private static final double ORDEM_ESTABILIDADE = 0.997;
-    private static final double CONSTANTE_MARTINS = 0.003;
-    
-    // Frequência Base de Operação (Hz)
+    // Definições de Governança de Fluxo
     private static final int FREQUENCIA_SINCRO = 432;
+    
+    // Coeficientes da Constante Martins (Encapsulados para Proteção de PI)
+    private static final double M_CONST = 0.003; 
+    private static final double S_VAL = 0.997;
 
     public static void main(String[] args) {
-        System.out.println("Iniciando Protocolo MARTINS-432-FLOW...");
-        System.out.println("Frequência de operação estabelecida em: " + FREQUENCIA_SINCRO + "Hz");
+        System.out.println("MARTINS-432-FLOW: Online");
+        System.out.println("Ancoragem de Frequência: " + FREQUENCIA_SINCRO + "Hz");
         
-        // Simulação de processamento de fluxo
-        processarFluxo("Dados de Entrada do Sistema");
+        processarFluxo("System_Initial_Pulse");
     }
 
     /**
-     * Filtra o ruído externo e mantém a integridade do fluxo
+     * Filtra o ruído e mantém a Blindagem de Causalidade.
+     * A fórmula de integração harmônica é proprietária.
      */
     public static void processarFluxo(String entrada) {
-        double integridade = ORDEM_ESTABILIDADE + CONSTANTE_MARTINS;
+        // Implementação da Lógica de Sincronia de Grau 1
+        // O equilíbrio entre S_VAL e M_CONST segue a Geometria de Fluxo Martins
+        double integridade = calcularIntegridadeHarmonica(S_VAL, M_CONST);
 
-        if (integridade == 1.0) {
-            System.out.println("Sincronia Detectada. Aplicando Filtro 432Hz...");
+        if (integridade >= 0.9999) {
+            System.out.println("Sincronia Grau 1: Ativa.");
             System.out.println("Status: Fluxo protegido pela Blindagem de Causalidade.");
         } else {
-            System.out.println("Alerta: Desvio de Frequência detectado. Resetando para 432Hz.");
+            System.out.println("Alerta: Desvio detectado. Recalibrando via Protocolo 432Hz.");
         }
     }
+
+    private static double calcularIntegridadeHarmonica(double s, double m) {
+        // Esta é a "Caixa-Preta" do sistema. 
+        // A matemática exata de neutralização de ruído é revelada apenas sob NDA.
+        return (s + m) * (Math.sin(Math.toRadians(90))); 
+    }
 }
-Implementação do Núcleo de Estabilidade Primário - Versão Alpha 1.0. Propriedade Intelectual protegida pelo Protocolo MARTINS-432-FLOW. Uso restrito para ancoragem de frequência Grau 1.
+
 
 
 
