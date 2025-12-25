@@ -35,3 +35,13 @@ public class CoreSincronia {
         }
     }
 }
+Implementação do Núcleo de Estabilidade Primário - Versão Alpha 1.0. Propriedade Intelectual protegida pelo Protocolo MARTINS-432-FLOW. Uso restrito para ancoragem de frequência Grau 1.
+
+
+
+
+
+
+
+
+
