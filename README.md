@@ -92,4 +92,9 @@ If you are interested in licensing the **MARTINS-432-FLOW-2025** protocol or req
 All commercial implementations are subject to **Direct Licensing Agreements** and **Performance Royalties**. Use for academic and research purposes is permitted under CC BY-NC 4.0, provided that authorship is properly attributed to Leandro Martins.
 
 *"Stabilize the system. Govern the flow."*
+### 🛡️ Atualizações Recentes (Dezembro 2025)
+
+* **Camada de Proteção Ativa:** Implementação do `shield.py`, um módulo em Python focado em segurança periférica e monitoramento de integridade do protocolo em tempo real.
+* **Estabilização do Core:** Refinamento dos arquivos `CoreSincronia.java` e `Martins432Stabilizer.java`, garantindo maior resiliência no processamento de fluxos universais.
+* **Conformidade:** Atualização das diretrizes de segurança no `SECURITY.md` para alinhar com as novas funcionalidades do Shield.
 
