@@ -113,6 +113,31 @@ If you are interested in licensing the **MARTINS-432-FLOW-2025** protocol or req
 * **📧 Email:** [cmte.caduu@gmail.com](mailto:cmte.caduu@gmail.com)
 * **📱 WhatsApp:** [+55 17 99680-7082](https://wa.me/5517996807082)
 * **🔗 LinkedIn:** [Leandro Martins](https://www.linkedin.com/in/leandro-martins-arquiteto)
+# 🛡️ PROTOCOL MARTINS-432-FLOW-2025
+
+**Owner:** Leandro Martins | Systems Architect & AI Mentor
+**Target:** Level 1 Civilization (Kardashev Scale)
+**Core Principle:** The "GOOD" Factor (Systemic Ethics)
+
+---
+
+## 📜 GLOBAL GOVERNANCE MANIFESTO
+
+As this protocol gains global traction (**161 Clones Recorded**), we officially implement the **"GOOD" Factor** as a technical validation requirement. High efficiency without ethical alignment is considered a systemic failure.
+
+### 1. The Cognitive Collaborator Responsibility
+* Anyone accessing the deep layers of this protocol must operate as a "Cognitive Collaborator".
+* This means using the logic to organize abundance and ensure the **common good** is the natural result of high efficiency.
+
+### 2. Usage Guidelines for Cloners (96 Unique Cloners)
+* **Ethical Alignment**: The use of this flow for predatory, destructive, or malicious purposes is a violation of the protocol's integrity.
+* **Data Sovereignty**: The Core Engine remains private to protect the civilization transition. You are granted access to the interface layers under the condition of moral commitment.
+
+### 3. Verification of Intent
+The protocol recognizes that "Good is the geometry of Order". Without it, the flow is unstable. With it, the transition to Level 1 is inevitable.
+
+---
+**Commit Message:** `feat: implementation of the GOOD Factor in the 432-FLOW interface`
 
 ### 🛡️ Legal Notice
 All commercial implementations are subject to **Direct Licensing Agreements** and **Performance Royalties**. Use for academic and research purposes is permitted under CC BY-NC 4.0, provided that authorship is properly attributed to Leandro Martins.
